@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-hola
-=======
 hola
 papaya
->>>>>>> efa25101d3b9cb5778d5a22023fa2be280f944fb
