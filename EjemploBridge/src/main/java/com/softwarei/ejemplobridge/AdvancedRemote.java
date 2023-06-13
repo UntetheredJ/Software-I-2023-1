@@ -6,7 +6,7 @@ package com.softwarei.ejemplobridge;
 
 /**
  *
- * @author Escalante
+ * @author
  */
 public class AdvancedRemote extends BasicRemote {
     public AdvancedRemote(Device device) {

@@ -6,7 +6,7 @@ package com.softwarei.ejemplobridge;
 
 /**
  *
- * @author Escalante
+ * @author
  */
 public interface Remote {
     void power();

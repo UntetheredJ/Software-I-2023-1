@@ -6,7 +6,7 @@ package com.softwarei.ejemplobridge;
 
 /**
  *
- * @author Escalante
+ * @author
  */
 public class TV implements Device {
     private boolean on = false;

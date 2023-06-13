@@ -2,7 +2,7 @@ package com.softwarei.ejemplobridge;
 
 /**
  *
- * @author Escalante
+ * @author
  */
 public interface Device {
     boolean isEnabled();

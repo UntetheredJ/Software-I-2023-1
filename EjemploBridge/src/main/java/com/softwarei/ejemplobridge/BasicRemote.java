@@ -6,7 +6,7 @@ package com.softwarei.ejemplobridge;
 
 /**
  *
- * @author Escalante
+ * @author
  */
 public class BasicRemote implements Remote {
     protected Device device;
